@@ -1,2 +1,0 @@
-# paroll
-Payroll management system
