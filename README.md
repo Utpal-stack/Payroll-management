@@ -1,1 +1,2 @@
-# Payroll-management
+# paroll
+Payroll management system
